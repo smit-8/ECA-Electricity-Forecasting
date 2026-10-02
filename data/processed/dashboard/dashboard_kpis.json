@@ -1,0 +1,16 @@
+{
+    "Best Model": "HistGradientBoosting",
+    "Best Model MAE": 0.374329406315359,
+    "Best Model RMSE": 0.5184178276691596,
+    "Best Model R2": 0.4554382990233575,
+    "Baseline MAE": 0.534100681393319,
+    "Baseline RMSE": 0.7952098232328327,
+    "Baseline R2": -0.2812996599045363,
+    "MAE Improvement Percent": 29.914074376606585,
+    "RMSE Improvement Percent": 34.80741654302101,
+    "Average Consumption": 1.0834565776513523,
+    "Maximum Hourly Consumption": 6.560533333333334,
+    "Minimum Hourly Consumption": 0.124,
+    "Peak Consumption": 6.560533333333334,
+    "Peak Consumption Time": "2008-11-23 18:00:00"
+}
