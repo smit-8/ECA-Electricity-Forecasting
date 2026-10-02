@@ -1,0 +1,57 @@
+Start the dashboard
+Open Command Prompt at:
+folder_path>
+Run:
+
+python -m streamlit run dashboard\11_streamlit_dashboard.py
+
+if not work this command 
+
+Run: 
+Clear
+
+After running below commands :
+
+python -m pip --version 
+python -m pip install streamlit plotly pandas numpy scikit-learn joblib
+python -m pip --versionpython -m streamlit run dashboard\11_streamlit_dashboard.py
+
+You should get:
+You can now view your Streamlit app in your browser.
+
+Local URL: http://localhost:8501
+Open:
+http://localhost:8501
+
+Test these four pages
+In the sidebar, click each one:
+⚡ Electricity Analytics
+
+Dashboard
+
+○ Overview
+○ Consumption Analysis
+○ Forecasting
+○ Model Evaluation
+
+Check:
+Overview
+KPI cards appear
+Daily trend appears
+Consumption Analysis
+Hourly chart
+Day-of-week chart
+Weekday vs Weekend
+Monthly chart
+Top 10 table
+
+Forecasting
+Timestamp selector works
+Prediction appears
+Actual value appears
+Forecast chart appears
+
+Model Evaluation
+Model comparison appears
+Actual vs predicted chart appears
+Error distribution appears
